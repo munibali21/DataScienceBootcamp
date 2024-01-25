@@ -10,3 +10,5 @@ This is also a basic python project in this project I created online food orderi
 in this project we have done EDA(Exploratory Data Analysis) on a small Dataset to evaluate some insights through visual like charts and graphs..
 ### Students Data Assignment:
 In this file I have done EDA (Exploratory Data Analysis) on a very big Dataset it has almost 33 columns with in the begining I started through cleaning (removing useless columns,checking do it contain null value,duplicate values) and after that I did EDA on this massive and got a lot of deep insights from this data which will furthur help in machine learning...
+### Canada per capita income predictor:
+in the new porject I did machine learning using linear regression algorithm to predict canada per capita income.
