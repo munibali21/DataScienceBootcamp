@@ -12,3 +12,5 @@ in this project we have done EDA(Exploratory Data Analysis) on a small Dataset t
 In this file I have done EDA (Exploratory Data Analysis) on a very big Dataset it has almost 33 columns with in the begining I started through cleaning (removing useless columns,checking do it contain null value,duplicate values) and after that I did EDA on this massive and got a lot of deep insights from this data which will furthur help in machine learning...
 ### Canada per capita income predictor:
 in the new porject I did machine learning using linear regression algorithm to predict canada per capita income.
+### Grand Project:
+This is the grandproject which was about credit risk first I cleaned the dataset and then I go through Exploratory Data Analysis which gives deep insights about the data that help me in doing  machine learning first I applied logistic regression and then I applied a lot of algos and at the end I used XGBoost which gives 92% accuracy and then I deployed my model after saving using streamlit.
